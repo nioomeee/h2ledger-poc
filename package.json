@@ -1,0 +1,16 @@
+{
+  "name": "h2ledger-poc",
+  "version": "0.1.0",
+  "description": "Privacy-Preserving Green Hydrogen Credits PoC using Groth16",
+  "scripts": {
+    "verify": "snarkjs groth16 verify keys/verification_key.json proofs/public_pass.json proofs/proof_pass.json",
+    "metrics": "node scripts/verify_metrics.js"
+  },
+  "keywords": [
+    "zk-snarks",
+    "groth16",
+    "circom",
+    "privacy"
+  ],
+  "license": "MIT"
+}
