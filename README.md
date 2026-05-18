@@ -458,7 +458,7 @@ MIT License - See LICENSE file for details
 
 **For research collaboration:**
 - This work targets top-tier applied cryptography venues (ACM AFT, ACSAC)
-- Contact: [Insert contact method]
+- Contact: [nioomeee@gmail.com]
 
 ---
 
